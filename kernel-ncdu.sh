@@ -73,6 +73,4 @@ function popdialog() {
     done
 }
 
-#getpath arch/x86/kvm
-
 popdialog .
